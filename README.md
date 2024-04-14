@@ -1,9 +1,9 @@
-# dip-project-template 
-(Replace above heading with your project name - think of something cool to describe your work :) )
+# Image To Drawing.
+Want to get your sketch done, but limited by proprietary softwares? We got your back!
 
 ## Brief Description
 
-Describle briefly what your project is about with as few sentences as possible. It is best if you can give a good visual example below your textual description .
+This work is done as a Digital Image Processing Course project. We implement a primitive baseline paper and improve it to overcome its limitations.
 
 ## Setup and Installation
 
